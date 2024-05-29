@@ -1,0 +1,57 @@
+.about {
+  display: flex;
+  flex-direction: row;
+  margin-top: 100px;
+  justify-content: space-between;
+}
+
+#aboutImg {
+  height: 350px;
+  width: 350px;
+  border-radius: 10px;
+  position: relative;
+  left: 100px;
+}
+
+.description {
+  position: relative;
+  right: 200px;
+}
+
+#university {
+  position: relative;
+  left: 110px;
+  color: #212ea0;
+}
+
+h1 {
+  position: relative;
+  left: 110px;
+  font-size: 30px;
+  width: 400px;
+}
+
+.para1 {
+  text-align: justify;
+  width: 700px;
+  position: relative;
+  left: 110px;
+  font-size: 14px;
+}
+.para2 {
+  text-align: justify;
+  width: 700px;
+  position: relative;
+  left: 110px;
+  top: 20px;
+  font-size: 14px;
+}
+
+.para3 {
+  text-align: justify;
+  width: 700px;
+  position: relative;
+  left: 110px;
+  top: 40px;
+  font-size: 14px;
+}

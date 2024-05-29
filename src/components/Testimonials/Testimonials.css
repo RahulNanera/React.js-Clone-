@@ -1,0 +1,193 @@
+#test {
+  position: relative;
+  top: 20px;
+  color: #212ea0;
+  left: 600px;
+}
+
+#stud {
+  position: relative;
+  top: 20px;
+  left: 554px;
+  color: #000f38;
+}
+
+.testimonials {
+  margin-top: 140px;
+  position: relative;
+  right: 13px;
+}
+
+#user1 {
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  border: 5px solid #212ea0;
+  position: relative;
+  left: 50px;
+}
+#user2 {
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  border: 5px solid #212ea0;
+  position: relative;
+  left: 50px;
+}
+#user3 {
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  border: 5px solid #212ea0;
+  position: relative;
+  left: 50px;
+}
+#user4 {
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  border: 5px solid #212ea0;
+  position: relative;
+  left: 50px;
+}
+
+.stud1 h1 {
+  position: relative;
+  left: 150px;
+  bottom: 70px;
+  font-size: 18px;
+  color: #212ea0;
+}
+
+.stud1 p {
+  position: relative;
+  left: 150px;
+  bottom: 70px;
+  font-size: 18px;
+}
+
+.stud2 h1 {
+  position: relative;
+  left: 150px;
+  bottom: 70px;
+  font-size: 18px;
+  color: #212ea0;
+}
+
+.stud2 p {
+  position: relative;
+  left: 150px;
+  bottom: 70px;
+  font-size: 18px;
+}
+
+.stud3 h1 {
+  position: relative;
+  left: 150px;
+  bottom: 70px;
+  font-size: 18px;
+  color: #212ea0;
+}
+
+.stud3 p {
+  position: relative;
+  left: 150px;
+  bottom: 70px;
+  font-size: 18px;
+}
+
+.stud4 h1 {
+  position: relative;
+  left: 150px;
+  bottom: 70px;
+  font-size: 18px;
+  color: #212ea0;
+}
+
+.stud4 p {
+  position: relative;
+  left: 150px;
+  bottom: 70px;
+  font-size: 18px;
+}
+
+.stud1 div {
+  width: 460px;
+  position: relative;
+  left: 60px;
+  bottom: 50px;
+  font-size: 15px;
+}
+.stud2 div {
+  width: 460px;
+  position: relative;
+  left: 60px;
+  bottom: 50px;
+  font-size: 15px;
+}
+.stud3 div {
+  width: 460px;
+  position: relative;
+  left: 60px;
+  bottom: 50px;
+  font-size: 15px;
+}
+.stud4 div {
+  width: 460px;
+  position: relative;
+  left: 60px;
+  bottom: 50px;
+  font-size: 15px;
+}
+
+.stud1 {
+  border: 1px solid white;
+  box-shadow: 1px 3px 3px rgb(0, 0, 0, 0.08);
+  width: 550px;
+  cursor: pointer;
+}
+.stud2 {
+  border: 1px solid white;
+  box-shadow: 1px 3px 3px rgb(0, 0, 0, 0.08);
+  width: 550px;
+  cursor: pointer;
+}
+.stud3 {
+  border: 1px solid white;
+  box-shadow: 1px 3px 3px rgb(0, 0, 0, 0.08);
+  width: 550px;
+  cursor: pointer;
+}
+.stud4 {
+  border: 1px solid white;
+  box-shadow: 1px 3px 3px rgb(0, 0, 0, 0.08);
+  width: 550px;
+  cursor: pointer;
+}
+
+.stud1:hover {
+  transform: scale(1.1);
+  transition: 0.7s;
+}
+.stud2:hover {
+  transform: scale(1.1);
+  transition: 0.7s;
+}
+.stud3:hover {
+  transform: scale(1.1);
+  transition: 0.7s;
+}
+.stud4:hover {
+  transform: scale(1.1);
+  transition: 0.7s;
+}
+
+.allStudents {
+  position: relative;
+  top: 60px;
+  left: 80px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2rem;
+}

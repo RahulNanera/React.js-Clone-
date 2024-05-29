@@ -1,0 +1,166 @@
+#cont {
+  position: relative;
+  top: 10px;
+  color: #212ea0;
+  left: 567px;
+}
+
+#get {
+  position: relative;
+  top: 40px;
+  left: 455px;
+  color: #000f38;
+}
+
+.contact {
+  position: relative;
+  top: 100px;
+  display: flex;
+  flex-direction: row;
+}
+
+.informations {
+  position: relative;
+  right: 200px;
+  top: 100px;
+}
+
+.form {
+  position: relative;
+  top: 105px;
+  left: 40px;
+}
+
+#msgImg {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  left: 290px;
+  bottom: 10px;
+}
+
+h2 {
+  position: relative;
+  top: 30px;
+  left: 80px;
+  font-size: 20px;
+}
+
+#info {
+  position: relative;
+  left: 80px;
+  width: 400px;
+  font-size: 15px;
+  opacity: 0.6;
+}
+
+#i1 {
+  height: 24px;
+  width: 30px;
+  position: relative;
+  left: 80px;
+  top: 20px;
+}
+#i2 {
+  height: 24px;
+  width: 30px;
+  position: relative;
+  left: 80px;
+  top: 20px;
+}
+#i3 {
+  height: 39px;
+  width: 30px;
+  position: relative;
+  left: 80px;
+  top: 20px;
+}
+
+#web {
+  position: relative;
+  left: 130px;
+  bottom: 10px;
+  opacity: 0.6;
+}
+
+#num {
+  position: relative;
+  left: 130px;
+  bottom: 10px;
+  opacity: 0.6;
+}
+
+#add {
+  position: relative;
+  left: 130px;
+  bottom: 30px;
+  width: 300px;
+  opacity: 0.6;
+}
+
+#l1 {
+  position: relative;
+  top: 10px;
+  right: 30px;
+}
+#l2 {
+  position: relative;
+  top: 50px;
+  right: 30px;
+}
+#l3 {
+  position: relative;
+  bottom: 100px;
+  right: 30px;
+}
+
+#name {
+  border: 1px solid rgba(0, 0, 0, 0.09);
+  width: 440px;
+  padding: 8px;
+  border-radius: 6px;
+  position: relative;
+  top: 50px;
+  right: 120px;
+  background-color: #ebecfe;
+}
+
+#number {
+  border: 1px solid rgba(0, 0, 0, 0.09);
+  width: 440px;
+  padding: 8px;
+  border-radius: 6px;
+  position: relative;
+  top: 90px;
+  right: 150px;
+  background-color: #ebecfe;
+}
+
+#message {
+  border: 1px solid rgba(0, 0, 0, 0.09);
+  width: 432px;
+  padding: 8px;
+  background-color: #ebecfe;
+  border-radius: 6px;
+  position: relative;
+  top: 140px;
+  right: 230px;
+}
+
+#btns {
+  position: relative;
+  top: 150px;
+  left: -30px;
+  background-color: #212ea0;
+  color: #fff;
+  width: 170px;
+  border: none;
+  padding: 7px;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+#btns:hover {
+  background-color: black;
+  color: white;
+}

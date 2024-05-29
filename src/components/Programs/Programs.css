@@ -1,0 +1,58 @@
+#our {
+  position: relative;
+  top: 20px;
+  color: #212ea0;
+  left: 570px;
+}
+
+#what {
+  position: relative;
+  top: 20px;
+  left: 554px;
+  color: #000f38;
+}
+
+#alldegrees {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  position: relative;
+  top: 50px;
+}
+
+#alldegrees img {
+  height: 360px;
+  width: 300px;
+  border-radius: 30px;
+}
+
+#alldegrees p {
+  color: red;
+  font-weight: 500;
+  position: relative;
+  bottom: 350px;
+  left: 80px;
+}
+
+.p1:hover {
+  transform: scale(1.1);
+  transition: 1.3s;
+}
+.p2:hover {
+  transform: scale(1.1);
+  transition: 1.3s;
+}
+.p3:hover {
+  transform: scale(1.1);
+  transition: 1.3s;
+}
+
+.p1 {
+  cursor: pointer;
+}
+.p2 {
+  cursor: pointer;
+}
+.p3 {
+  cursor: pointer;
+}
